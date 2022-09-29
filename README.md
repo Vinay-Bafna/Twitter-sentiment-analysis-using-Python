@@ -6,9 +6,9 @@
 3. Tkinter
 4. NLTK (Natural Language Toolkit)
 5. Tweepy 
-6. json
-7. matplotlib.pyplot
-8. textblob
+6. Json
+7. Matplotlib.pyplot
+8. Textblob
 
 # Following SS of GUI's:-
 
