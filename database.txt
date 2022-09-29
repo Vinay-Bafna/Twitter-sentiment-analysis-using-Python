@@ -1,0 +1,15 @@
+drop database twitterDb;  
+create database twitterDb; 
+use twitterDb; 
+
+create table admindetails(
+uname varchar(30),
+password varchar(30),
+PRIMARY KEY(uname)
+);
+
+insert into admindetails values('admin','pass');
+
+
+
+
